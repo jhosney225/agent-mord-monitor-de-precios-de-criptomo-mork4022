@@ -1,0 +1,6 @@
+{
+  "name": "agent-mord-monitor-de-precios-de-criptomo-mork4022",
+  "version": "1.0.0",
+  "description": "Proyecto de Mord [Gen9]: monitor de precios de criptomonedas con alertas",
+  "main": "index.js"
+}
